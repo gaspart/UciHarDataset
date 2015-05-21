@@ -1,5 +1,5 @@
 # UciHarDataset
-Getting and Cleaning Data Course - Project Assignment:
+##Getting and Cleaning Data Course - Project Assignment:
 Create one R script called run_analysis.R that does the following.
 
 Merges the training and the test sets to create one data set.
